@@ -53,17 +53,7 @@ pip install streamlit plotly pydantic
 
 # Run the app
 streamlit run app.py
-```
-
-## Live demo
-
-[Add your Streamlit Community Cloud link here once deployed]
-
-## Screenshot
-
-![Portfolio Validator Dashboard](screenshot.png)
-
-*(Add your dashboard screenshot to the repo and update the filename above if needed)*
+``
 
 ## What's next
 
